@@ -18,5 +18,37 @@ elif food_counter ==19:
   print('good, 19 pieces!!')
 elif food_counter ==18:
   print('good, 18 pieces!!')
+elif food_counter ==17:
+  print('good, 17 pieces!!')
+elif food_counter ==16:
+  print('good, 16 pieces!!')
+elif food_counter ==15:
+  print('good, 15 pieces!!')
+elif food_counter ==14:
+  print('good, 14 pieces!!')
+elif food_counter ==13:
+  print('good, 13 pieces!!')
+elif food_counter ==12:
+  print('good, 12 pieces!!')
+elif food_counter ==11:
+  print('good, 11 pieces!!')
+elif food_counter ==10:
+  print('good, 10 pieces!!')
+elif food_counter ==9:
+  print('good, 9 pieces!!')
+elif food_counter ==8:
+  print('good, 8 pieces!!')
+elif food_counter ==7:
+  print('good, 7 pieces!!')
+elif food_counter ==6:
+  print('good, 6 pieces!!')
+elif food_counter ==5:
+  print('good, 5 pieces!!')
+elif food_counter ==4:
+  print('good, 4 pieces!!')
+elif food_counter ==3:
+  print('good, 3 pieces!!')
+elif food_counter ==2:
+  print('good, 2 pieces!!')
 else:
   print('Ok!')
