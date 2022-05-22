@@ -1,0 +1,7 @@
+# TERNARY TEST
+#document approval request, user has 16 years old and some extra information are required, this one is a ternary bc i need to reduce my code line
+age= (input= )
+
+result = 'Passport Approved' if age >=21 else 'Document Denied'
+
+print(result)
