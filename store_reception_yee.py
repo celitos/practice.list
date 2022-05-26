@@ -25,7 +25,13 @@ welcome('Samsu', 2455000000)
 welcome('App', 2355000000)
 welcome('Sonyyy', 2255000000)
 welcome('Philp', 2055000000)
-welcome('Onboard', 1355000000)
+welcome('Jake', 1355080000)
+welcome('Chrysle', 2505091000)
+welcome('Sam', 2455005200)
+welcome('Panda', 2355000000)
+welcome('Home and ', 2255510000)
+welcome('T Status', 2055002500)
+welcome('V-Deck, 1355015000)
 
 
 '''
