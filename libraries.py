@@ -6,3 +6,5 @@ sectors or sessions
 place a, b or c
 #library
 the whole thing
+#details of this file 
+set location();
