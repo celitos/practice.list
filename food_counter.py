@@ -1,6 +1,12 @@
 food_counter = 24
 
-if food_counter ==26:
+if food_counter ==29:
+  print('good, 29 pieces!!')
+elif food_counter ==28:
+  print('good, 28 pieces!!')
+elif food_counter ==27:
+  print('good, 27 pieces!!')
+elif food_counter ==26:
   print('good, 26 pieces!!')
 elif food_counter ==25:
   print('good, 25 pieces!!')
