@@ -9,3 +9,4 @@ for send in range(3):
 else:
   print('Sale not completed.')
 #filetest
+/////////*****////////
