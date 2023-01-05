@@ -5,3 +5,5 @@
  kernel_implementation= add_item + insert_info_from(inputdata= 31245);
 implement = ()
 code_test = () 
+
+ import test and import codes
